@@ -110,7 +110,6 @@ const Feedback = async ({ params }: RouteParams) => {
             </p>
           </Link>
         </Button>
-        f
       </div>
     </section>
   );
