@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Firebase
+prepwise-ea847-firebase-adminsdk-fbsvc-0c7b5db859.json
